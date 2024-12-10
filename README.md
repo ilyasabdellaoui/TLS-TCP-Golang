@@ -83,3 +83,6 @@ The client requires its own certificate, key, and the CA certificate to verify t
 
 - Ensure that the `server.crt`, `server.key`, `client.crt`, `client.key`, and `ca.crt` files are placed correctly in the same directory as `server.go` and `client.go` for ease of access.
 - Modify the server address and port in the code if needed.
+
+## References
+[How to Implement TLS ft. Golang](https://medium.com/@harsha.senarath/how-to-implement-tls-ft-golang-40b380aae288)
