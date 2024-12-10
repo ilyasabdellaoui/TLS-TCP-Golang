@@ -1,3 +1,11 @@
+ca.key
+ca.crt
+ca.srl
+
 server.key
 server.crt
 server.csr
+
+client.key
+client.crt
+client.csr
